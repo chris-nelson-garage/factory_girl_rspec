@@ -1,5 +1,5 @@
 module FactoryGirl
-  module Rspec
+  module RSpec
     VERSION = "1.0.0"
   end
 end
