@@ -4,7 +4,7 @@ require "factory_girl/rspec/version"
 
 Gem::Specification.new do |s|
   s.name        = "factory_girl_rspec"
-  s.version     = FactoryGirl::Rspec::VERSION
+  s.version     = FactoryGirl::RSpec::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Ryan Sonnek"]
   s.email       = ["ryan@codecrate.com"]
